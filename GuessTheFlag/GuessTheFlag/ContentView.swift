@@ -12,10 +12,7 @@ struct ContentView: View {
     var body: some View {
         ZStack{
             Text("Hello, World!")
-            Text("Hello, World!")
-            Text("Hello, World!")
-            Text("Hello, World!")
-            
+            Text("Hello, World!")            
         }
         
     }
