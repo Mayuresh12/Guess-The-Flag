@@ -1,9 +1,10 @@
 #  Guess the flag
-Description guesing game where the user can learn about various flags all over the world.
+_Description_
+
+Guesing game where the user can learn about various flags all over the world.
 
 SwiftUI concepts used here in this project.
-
-
+------------------------------------------------
 *Buttons and Images*
 - Make the color reach out  the safe area
 ```
