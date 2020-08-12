@@ -49,7 +49,6 @@
 		EA3FE1C724E0FB1C00B82933 /* GuessTheFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA3FE1CB24E0FB1C00B82933 /* GuessTheFlagUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagUITests.swift; sourceTree = "<group>"; };
 		EA3FE1CD24E0FB1C00B82933 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EAEBD13E24E3C406005ED39D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +83,6 @@
 				EA3FE1BF24E0FB1C00B82933 /* GuessTheFlagTests */,
 				EA3FE1CA24E0FB1C00B82933 /* GuessTheFlagUITests */,
 				EA3FE1A724E0FB1A00B82933 /* Products */,
-				EAEBD13E24E3C406005ED39D /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
