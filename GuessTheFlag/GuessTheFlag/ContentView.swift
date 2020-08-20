@@ -14,6 +14,7 @@ struct ContentView: View {
             print("Button is tapped")
         }) {
             Text("Tap me!")
+            Image(systemName: "pencil").renderingMode(.original)
         }
     }
     
