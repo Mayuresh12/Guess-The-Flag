@@ -3,6 +3,11 @@ _Description_
 
 Guesing game where the user can learn about various flags all over the world.
 
+# App Demo
+
+<img src="gif/GuessTheFlag.gif"/>
+
+
 SwiftUI concepts used here in this project.
 ------------------------------------------------
 *Buttons and Images*
